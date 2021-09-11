@@ -1,0 +1,51 @@
+/* p.error {
+    color: red;
+}
+
+p.success {
+    color: green
+}
+
+p.success.feedback {
+    border: 2px dashed green;
+}
+
+div#content {
+    background-color: blue;
+}
+*/
+/* Use id's for javascript and classes for css  */
+
+/* div p {
+    color: purple;
+}
+
+/* div .error is for decendents
+    div.error is for divs with the class of error */
+/*
+a[href]{
+    background-color:pink;
+}
+
+a[href="https://youtube.com"]{
+    background-color: yellow;
+}
+a[href*="github.com/josh1205/Commercial-TruckHUB"] {
+    text-decoration: none;
+}
+
+a[href$=".com"] {
+    border: 2px dashed red;
+} */
+
+/* div {
+    color: lightcoral;
+    border: 2px solid black;
+    margin: 40px;
+}
+
+p {
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+} */
