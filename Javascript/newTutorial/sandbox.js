@@ -30,16 +30,46 @@
 //     console.log(value);
 // })
 
-const ul = document.querySelector('.people');
+// const ul = document.querySelector('.people');
 
-const people = ['mario', 'josh', 'angelo'];
+// const people = ['mario', 'josh', 'angelo'];
 
-let html = ``;
+// let html = ``;
 
-people.forEach(function(person){
-    //create a html template
-    html += `<li style="color: purple>${person}</li>`;
-});
+// people.forEach(function(person){
+//     //create a html template
+//     html += `<li style="color: purple>${person}</li>`;
+// });
 
-console.log(html);
-ul.innerHTML = html;
+// console.log(html);
+// ul.innerHTML = html;
+
+let user = {
+    name: 'Josh',
+    age: 30,
+    email: 'josh@gmail.com',
+    blogs: ['why mac and cheese', '10 cool things'],
+    login: function() {
+        console.log('the user logged in');
+    },
+    logout: function() {
+        console.log('the user logged out');
+    },
+    logBlogs() {
+        console.log(this.blogs)
+    }
+};
+
+console.log(user.name);
+user.age = 35;
+user['age'] = 26;
+console.log(user.age);
+
+user.login();
+
+user.logBlogs();
+
+const blogs = [
+    { title: 'why mac and cheese rules', likes: 30 },
+    { title: 'why apple and pears', likes: 20 }
+]
