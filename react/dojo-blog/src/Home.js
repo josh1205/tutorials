@@ -1,21 +1,38 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import BlogList from './blogList';
 
 const Home = () => {
-    //let name = 'mario';
-    const [name, setName] = useState('mario');
-    const [age, setAge] = useState(25);
-    const handleClick = () => {
-        setName('luigi');
-        setAge(30);
-    }
+    const [blogs, setBlogs] = useState(null);
+    const [isPending, setIsPending] = useState(true);
+    const [error, setError] = useState(null);
+
+    useEffect(() => {
+        fetch('http://localhost:8000/blogs')
+            .then(res => {
+                if(!res.ok) {
+                    throw Error('Could not fetch the data for that resource');
+                }
+                return res.json();
+            })
+            .then(data => {
+                setBlogs(data);
+                setIsPending(false)
+                setError(null);
+            })
+            .catch(err => {
+                setIsPending(false);
+                setError(err.message);
+            })
+    },[]);
 
     return ( 
         <div className="home">
-            <h2>HomePage</h2>
-            <p>name: { name }, age: { age } </p>
-            <button onClick={handleClick}>Click me</button>
+            { error && <div>{error}</div>}
+            { isPending && <div>Loading...</div>}
+            {blogs && <BlogList blogs={blogs} title="All blogs"/>}
         </div>
      );
+
 }
  
 export default Home;
