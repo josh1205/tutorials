@@ -13,10 +13,22 @@
       "id": 3
     },
     {
-      "title": "ho[hoi[b",
-      "details": ";-p[=..p",
-      "category": "todos",
+      "title": "Pay the rent",
+      "details": "Hello this is me payin the rent",
+      "category": "money",
       "id": 4
+    },
+    {
+      "title": "Do your homework before it is due",
+      "details": "Probably should get it done",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "gyuofy",
+      "details": "hvlvluvy",
+      "category": "reminders",
+      "id": 6
     }
   ]
 }
