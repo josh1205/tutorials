@@ -1,0 +1,4 @@
+/Users/joshualavieri/Desktop/C# Studying/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csprojAssemblyReference.cache
+/Users/joshualavieri/Desktop/C# Studying/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfoInputs.cache
+/Users/joshualavieri/Desktop/C# Studying/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfo.cs
+/Users/joshualavieri/Desktop/C# Studying/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csproj.CoreCompileInputs.cache

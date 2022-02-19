@@ -1,0 +1,12 @@
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/bin/Debug/netcoreapp3.1/MultArrays.deps.json
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/bin/Debug/netcoreapp3.1/MultArrays.runtimeconfig.json
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/bin/Debug/netcoreapp3.1/MultArrays.runtimeconfig.dev.json
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/bin/Debug/netcoreapp3.1/MultArrays.dll
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/bin/Debug/netcoreapp3.1/MultArrays.pdb
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/obj/Debug/netcoreapp3.1/MultArrays.csprojAssemblyReference.cache
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/obj/Debug/netcoreapp3.1/MultArrays.AssemblyInfoInputs.cache
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/obj/Debug/netcoreapp3.1/MultArrays.AssemblyInfo.cs
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/obj/Debug/netcoreapp3.1/MultArrays.csproj.CoreCompileInputs.cache
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/obj/Debug/netcoreapp3.1/MultArrays.dll
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/obj/Debug/netcoreapp3.1/MultArrays.pdb
+/Users/joshualavieri/Desktop/MultArrays/MultArrays/obj/Debug/netcoreapp3.1/MultArrays.genruntimeconfig.cache

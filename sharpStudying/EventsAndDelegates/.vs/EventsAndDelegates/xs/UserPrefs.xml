@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9F3516D8-5DEE-488E-9BC1-C4557A3FF3BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventsAndDelegates/File.cs">
+    <Files>
+      <File FileName="EventsAndDelegates/Program.cs" Line="11" Column="43" />
+      <File FileName="EventsAndDelegates/File.cs" Line="2" Column="11" />
+      <File FileName="EventsAndDelegates/DownloadHelper.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EventsAndDelegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

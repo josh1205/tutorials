@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3139FB6F-0C5D-477D-A549-EE4212011DA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RegularExpressions/Program.cs">
+    <Files>
+      <File FileName="RegularExpressions/Program.cs" Line="10" Column="37" />
+      <File FileName="RegularExpressions/Sample.txt" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RegularExpressions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

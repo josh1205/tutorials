@@ -1,0 +1,12 @@
+Installed:
+python
+ganache
+solidity
+nodejs
+
+pip3 install black
+pip3 install py-solc-x
+pip3 install python-dotenv
+npm install --global yarn
+yarn global add ganache-cli
+instal i

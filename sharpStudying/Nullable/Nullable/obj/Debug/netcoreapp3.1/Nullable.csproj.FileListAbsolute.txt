@@ -1,0 +1,12 @@
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.csprojAssemblyReference.cache
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.AssemblyInfoInputs.cache
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.AssemblyInfo.cs
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.csproj.CoreCompileInputs.cache
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.deps.json
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.runtimeconfig.json
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.runtimeconfig.dev.json
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.dll
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.pdb
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.dll
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.pdb
+/Users/joshualavieri/Desktop/C# Studying/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/bin/Debug/netcoreapp3.1/Delagates1.deps.json
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/bin/Debug/netcoreapp3.1/Delagates1.runtimeconfig.json
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/bin/Debug/netcoreapp3.1/Delagates1.runtimeconfig.dev.json
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/bin/Debug/netcoreapp3.1/Delagates1.dll
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/bin/Debug/netcoreapp3.1/Delagates1.pdb
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/obj/Debug/netcoreapp3.1/Delagates1.csprojAssemblyReference.cache
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/obj/Debug/netcoreapp3.1/Delagates1.AssemblyInfoInputs.cache
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/obj/Debug/netcoreapp3.1/Delagates1.AssemblyInfo.cs
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/obj/Debug/netcoreapp3.1/Delagates1.csproj.CoreCompileInputs.cache
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/obj/Debug/netcoreapp3.1/Delagates1.dll
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/obj/Debug/netcoreapp3.1/Delagates1.pdb
+/Users/joshualavieri/Desktop/C# Studying/Delagates1/Delagates1/obj/Debug/netcoreapp3.1/Delagates1.genruntimeconfig.cache

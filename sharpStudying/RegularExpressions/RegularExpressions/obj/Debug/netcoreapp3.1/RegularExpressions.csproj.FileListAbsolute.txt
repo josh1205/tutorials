@@ -1,0 +1,12 @@
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/bin/Debug/netcoreapp3.1/RegularExpressions.deps.json
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/bin/Debug/netcoreapp3.1/RegularExpressions.runtimeconfig.json
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/bin/Debug/netcoreapp3.1/RegularExpressions.runtimeconfig.dev.json
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/bin/Debug/netcoreapp3.1/RegularExpressions.dll
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/bin/Debug/netcoreapp3.1/RegularExpressions.pdb
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.csprojAssemblyReference.cache
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.AssemblyInfoInputs.cache
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.AssemblyInfo.cs
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.csproj.CoreCompileInputs.cache
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.dll
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.pdb
+/Users/joshualavieri/Desktop/C# Studying/RegularExpressions/RegularExpressions/obj/Debug/netcoreapp3.1/RegularExpressions.genruntimeconfig.cache

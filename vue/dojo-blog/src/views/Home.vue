@@ -1,14 +1,22 @@
 <template>
   <div class="home">
     <h1>Home</h1>
-    <input type="text" v-model="search">
+    <PostList :posts="posts"/>
+
+
+
+
+
+
+    <!-- <input type="text" v-model="search">
     <p>search term - {{ search }}</p>
     <div v-for="name in matchingNames" :key="name">{{ name }}</div>
-    <button @click="handleClick">stop watching</button>
+    <button @click="handleClick">stop watching</button> -->
   </div>
 </template>
 
 <script>
+import PostList from '../components/PostList.vue'
 import { ref, reactive, computed, watch, watchEffect } from 'vue'
 
 export default {
@@ -34,7 +42,14 @@ export default {
       stopEffect()
     }
 
-    return { names, search, matchingNames, handleClick }
+    const posts = ref([
+      { title: 'welcome to the blog', body: 'Lorem ipsum', id: 1},
+      { title: 'TOP 5 CSS TIPS', body: 'Lorem ipsum', id: 2}
+
+    ])
+
+
+    return { names, search, matchingNames, handleClick, posts }
   }
 }
 </script>
