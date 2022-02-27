@@ -1,0 +1,4 @@
+commands:
+npm install i -g typescript
+npm i lodash
+npm i -D @types/lodash
